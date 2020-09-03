@@ -26,7 +26,7 @@
   "devDependencies": {
     "http-proxy-middleware": "^0.19.1",
     "npm-run-all": "^4.1.5",
-    "sapper": "^0.27.0",
+    "sapper": "^0.27.11",
     "svelte": "^3.0.0",
     "svelte-loader": "^2.9.0",
     "webpack": "^4.7.0"
